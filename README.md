@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortefromplanescape&layout=compact)](https://github.com/Mortefromplanescape/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mortefromplanescape&repo=github-readme-stats)](https://github.com/Mortefromplanescape/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortefromplanescape&theme=slateorange&layout=compact)](https://github.com/Mortefromplanescape/github-readme-stats)
 <!--
 **Mortefromplanescape/Mortefromplanescape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
