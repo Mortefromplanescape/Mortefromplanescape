@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mortefromplanescape&label=Profile%20views&color=ff8800&style=plastic" alt="mortefromplanescape" /> </p>
 
-- 👨‍💻 All of my projects are available at [mortefromplanescape.ru/cv](mortefromplanescape.ru/cv)
+- 👨‍💻 My cv available here: [mortefromplanescape.ru/cv](http://mortefromplanescape.ru/cv)
 
-- 📝 I write some articles on [mortefromplanescape.ru](http://mortefromplanescape.ru)
+- 📝 Feel free to visit my blog: [mortefromplanescape.ru](http://mortefromplanescape.ru)
 
-- 📫 How to reach me **mortefromplanescape@gmail.com**
+- 📫 Contact me with e-mail: **mortefromplanescape@gmail.com**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortefromplanescape&theme=slateorange&" alt="mortefromplanescape" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mortefromplanescape&theme=slateorange&show_icons=true&locale=en" alt="mortefromplanescape" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mortefromplanescape&theme=slateorange&show_icons=true&locale=en" alt="mortefromplanescape" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortefromplanescape&theme=slateorange&show_icons=true&locale=en&layout=compact" alt="mortefromplanescape" /></p>
 
