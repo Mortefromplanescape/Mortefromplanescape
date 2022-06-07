@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mortefromplanescape&repo=github-readme-stats)](https://github.com/Mortefromplanescape/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mortefromplanescape&repo=Mortefromplanescape)](https://github.com/Mortefromplanescape/Mortefromplanescape)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortefromplanescape&theme=slateorange&layout=compact)](https://github.com/Mortefromplanescape/github-readme-stats)
 <!--
