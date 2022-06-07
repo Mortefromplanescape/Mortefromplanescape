@@ -2,11 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mortefromplanescape&label=Profile%20views&color=ff8800&style=plastic" alt="mortefromplanescape" /> </p>
 
-- 👨‍💻 My cv available here: [mortefromplanescape.ru/cv](http://mortefromplanescape.ru/cv)
-
 - 📝 Feel free to visit my blog: [mortefromplanescape.ru](http://mortefromplanescape.ru)
-
 - 📫 Contact me with e-mail: **mortefromplanescape@gmail.com**
+- 👨‍💻 My cv available here: [mortefromplanescape.ru/cv](http://mortefromplanescape.ru/cv)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortefromplanescape&theme=slateorange&" alt="mortefromplanescape" /></p>
 
@@ -16,10 +14,9 @@
 <br/><br/><br/><br/><br/><br/>
 <h4 align="left">My accounts:</h4>
 <p align="left">
-<a href="https://www.youtube.com/c/mortefromplanescape.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mortefromplanescape.dev" height="30" width="40" /></a>
 <a href="https://kaggle.com/boreich89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="boreich89" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/boreich89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boreich89" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@boreich89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@boreich89" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mortefromplanescape.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mortefromplanescape.dev" height="30" width="40" /></a>
 </p>
 <h4 align="left">Languages used:</h4>
 <p align="left">
